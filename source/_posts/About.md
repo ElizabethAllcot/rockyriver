@@ -1,8 +1,10 @@
 ---
 title: About
 ---
-
+***
 # Old-Fashioned Service, Brand New Features
+
+![Building](\images\motel\building2.jpg) ![Bed](\images\motel\bed.jpg) ![Arch](\images\motel\arch.jpg)
 
 Located on Route 7 in New Milford, Rocky River Motel offers the class of an inn at the cost of a motel. We recently renovated all twenty of our old units and constructed a new building. Our facility provides single and double bedrooms and suites with amenities you would not normally find in a motel.
  

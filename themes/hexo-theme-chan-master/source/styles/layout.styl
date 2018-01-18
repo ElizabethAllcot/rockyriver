@@ -8,6 +8,13 @@ html, body {
   color: #333;
 }
 
+img {
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	border: 3px solid #73AD21;
+}
+
 .main-container {
   position: absolute;
   top: 0;
@@ -22,17 +29,22 @@ html, body {
   position: absolute;
   top: 0;
   right: 0;
-  left: 400px;
+  left: 300px;
   bottom: 0;
   height: 100%;
-  padding: 20px 40px 0;
+  padding: 20px 40px 50px;
   overflow: auto;
   word-wrap: break-word;
   //word-break: break-all;
 }
 
 .main-footer {
-  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  left: 250px;
+  background-color: lightgray;
+  width: 90%;
+  padding: 20px;
 }
 
 @media mq-mobile {

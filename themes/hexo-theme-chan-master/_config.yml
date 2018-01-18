@@ -24,19 +24,22 @@ nav:
   -
     -
       name: About
-      url: '/'
+      url: '2018/01/18/About/'
     -
       name: Lodging
-      url: '/'
+      url: '2018/01/19/Lodging/'
     -
       name: Amenities
-      url: '/'
+      url: '2018/01/19/Amenities/'
     -
       name: Attractions
-      url: '/'
+      url: '2018/01/19/Attractions/'
     -
       name: Reservations
-      url: '/'
+      url: '2018/01/19/Reservations/'
+    -
+      name: News
+      url: '2018/01/19/News/'
 # duoshuo shortname
 # refer to http://duoshuo.com
 # If you use disqus then you should set disqus_shortname in your site config and disable duoshuo here.
