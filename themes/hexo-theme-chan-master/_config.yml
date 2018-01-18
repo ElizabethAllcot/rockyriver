@@ -22,27 +22,21 @@ copyright: # the copyright text in the footer, could be richtext
 # There are also some special link items representing in string: 'categories', 'tags' and 'archives'
 nav:
   -
-    - categories # display a collapsible category list
-    - tags       # display a collapsible tag list
-    - archives   # display a collapsible archive list
-  -
     -
-      name: Homepage
+      name: About
       url: '/'
     -
-      name: By Year
-      url: /archives
-  -
+      name: Lodging
+      url: '/'
     -
-      name: Chan
-      url: https://github.com/denjones/hexo-theme-chan
+      name: Amenities
+      url: '/'
     -
-      name: Github
-      url: https://github.com/denjones
+      name: Attractions
+      url: '/'
     -
-      name: RSS
-      url: /atom.xml
-
+      name: Reservations
+      url: '/'
 # duoshuo shortname
 # refer to http://duoshuo.com
 # If you use disqus then you should set disqus_shortname in your site config and disable duoshuo here.

@@ -1,6 +1,6 @@
 <div class="sidebar">
   <div class="header">
-    <h1 class="title"><a href="<%- url_for('/') %>"><%= config.title %></a></h1>
+    <h1 class="title"><a href="<%- url_for('/') %>"> Rocky River Motel</a></h1>
     <% if (config.subtitle) { %>
       <p class="subtitle">
         <%= config.subtitle %>
@@ -15,15 +15,6 @@
           <div class="author"><%= config.author %></div>
         <% } %>
       </div>
-      <% if (theme.avatar) { %>
-        <div class="avatar">
-          <% if (theme.avatarLink) { %>
-            <a href="<%= theme.avatarLink %>"><img src="<%= theme.avatar %>"></a>
-          <% } else { %>
-            <img src="<%= theme.avatar %>">
-          <% } %>
-        </div>
-      <% } %>
     </div>
   </div>
   <div class="body">
