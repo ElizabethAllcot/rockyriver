@@ -2,7 +2,7 @@
 title: Amenities
 ---
 ***
-# All the Comforts of Home
+## All the Comforts of Home
 
 Rocky River Motel offers bedrooms and suites with all the comforts of home... and then some!
 

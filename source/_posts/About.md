@@ -2,7 +2,7 @@
 title: About
 ---
 ***
-# Old-Fashioned Service, Brand New Features
+## Old-Fashioned Service, Brand New Features
 
 ![Building](\images\motel\building2.jpg) ![Bed](\images\motel\bed.jpg) ![Arch](\images\motel\arch.jpg)
 

@@ -2,7 +2,7 @@
 title: Lodging
 ---
 ***
-# Extraordinary Accomodations
+## Extraordinary Accomodations
 
 Rocky River Motel consists of four modern, one-story buildings including nice bedrooms, nine suites and two Jacuzzi rooms. Eighteen are one bedroom and ten are two bedrooms. Five of the suites include kitchens. The two Jacuzzi rooms also offer Plasma TVs.
  

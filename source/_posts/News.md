@@ -2,7 +2,7 @@
 title: News
 ---
 ***
-# Current Events
+## Current Events
 
 Employees of Kimberly Clark, Nestle and other companies can benefit from exclusive rates from Rocky River Motel, starting at only $40.00/night!
 

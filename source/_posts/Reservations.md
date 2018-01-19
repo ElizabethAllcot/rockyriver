@@ -2,7 +2,7 @@
 title: Reservations
 ---
 ***
-# Affordable Seasonal Rates
+## Affordable Seasonal Rates
 
 Rocky River Motel offers the luxury of a fine hotel at the price of a cheaper motel. Check out our cost-effective seasonal rates, perfect for any size budget!
 
